@@ -34,4 +34,8 @@ body{
 .topNav a.active {
     background-color: #4CAF50;
     color: white;
+    text-decoration-line:underline;
+    text-decoration-style:wavy;
+    text-decoration-color:lightgreen;
+    
 }
