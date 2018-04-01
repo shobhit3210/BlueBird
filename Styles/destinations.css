@@ -18,13 +18,18 @@ body{
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+    text-decoration-line:underline;
+    text-decoration-style:solid;
+    text-decoration-color:wheat;
     font-size: 17px;
 }
 
 .topNav a:hover {
     background-color: #ddd;
     color: black;
+    text-decoration-line:underline;
+    text-decoration-style:wavy;
+    text-decoration-color:gray;
 }
 
 .topNav a.active {
