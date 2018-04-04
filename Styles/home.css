@@ -34,7 +34,6 @@ body{
 .topNav a.active {
     background-color: #4CAF50;
     color: white;
-<<<<<<< HEAD
 }
 
 /*Sliding Images*/
@@ -134,10 +133,4 @@ body{
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
-=======
-    text-decoration-line:underline;
-    text-decoration-style:wavy;
-    text-decoration-color:lightgreen;
-    
->>>>>>> a521508e5a89f1f79b3a666de6337eab21c86a3a
 }
