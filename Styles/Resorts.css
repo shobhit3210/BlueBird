@@ -1,3 +1,9 @@
 body{
-    background-color:gray;
+    text-align:center;
+    background-image:url("../images1/j.jpg");
+    background-size:100%;
+}
+logo{
+    color:lavender;
+    
 }
