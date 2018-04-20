@@ -1,14 +1,13 @@
 body{
-    background-color:gray;
     text-align: center;
     text-decoration-color: crimson;
-}
+    background-color:#f1f8e9;
 
+}
 #logo{
     color:rgb(0, 255, 157);
-    font-family:cursive"
+    font-family:cursive;
 }
-
 /*Navigation Bar*/
 .topNav {
     background-color: #333;
@@ -25,7 +24,7 @@ body{
     font-size: 17px;
 }
 .topNav a:hover {
-    background-color: #ddd;
+    background-color: rgb(221, 221, 221);
     color: black;
 }
 .topNav a.active {
