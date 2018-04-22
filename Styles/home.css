@@ -1,109 +1,31 @@
-body{
-    background-color:skyblue;
-    
-}
-/*Website logo*/
+/* Website logo
 #logo{
     color:red;
     font-family:Arial, Helvetica, sans-serif;
     font-style: oblique;
     font-size: 36px;
     text-align: center;
+} */
+
+/*logo of the website*/
+#i{
+  border-radius:50%;
+  padding-bottom: 0%;
+  padding-top: 0%;
+
 }
 
 h2{
   text-align: center;
 }
 
-/*Navigation Bar*/
-.topNav {
-  position: sticky;
-  top:0;
-  background-color: #333;
-  overflow: hidden;
-}
-.topNav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  font-size: 17px;
-  text-decoration: none;
-}
-.topNav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-.topNav a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
 /*Parent body of website*/
 .parentContainer{
-  max-width: 100%;
-}
-
-
-
-/*Image Slider Pics*/
-.imageSlider{
-  position: relative;
-}
-.mySlides{
-  width:max-content;
-  height: 1024px;
-}
-
-/*Search Box*/
-.searchContainer{
   position: absolute;
-  top: 50%;
-  left:50%;
-}
-#searchT{
-  size: 90;
-  max-width: 400px;
+  max-width: 80%;
+  left: 8%;
 }
 
-<<<<<<< HEAD
-/*Top Destinations Box*/
-#topDestinationsBox{
-  border:3px solid red;
-  position: relative;
-  left: 20%;
-  width: 40em;
-  height:40em;  
-=======
-/*Navigation Bar*/
-.topNav {
-    position: sticky;
-    top:0;
-    background-color: #333;
-    overflow: hidden;
-}
-.topNav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    font-size: 17px;
-    text-decoration: none;
-}
-.topNav a:hover {
-    background-color: rgb(221, 221, 221);
-    color: black;
->>>>>>> 514507f233ee6de5ab9a09f6e5a47c39c480868c
-}
 
-/*Top Destinations Section*/
-.tDestRow{
-  position: absolute;
-  width:40em ;
-  height:20em;
-  left:0%;
-}
-.tDestImage{
-  width: 20em;
-  height: 10em;
-}
+
+
