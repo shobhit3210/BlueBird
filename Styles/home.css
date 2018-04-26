@@ -1,9 +1,12 @@
 /*Parent body of website*/
 .parentContainer{
   position: absolute;
-  max-width: 80%;
-  left: 8%;
+  max-width: 100%;
 }
-
+#topDestCardHolder{
+  max-height: 450px;
+  max-width: 300px;
+  overflow-y: auto;
+}
 
 
